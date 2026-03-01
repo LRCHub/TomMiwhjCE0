@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "アップルパイ・プリンセス",
+  "base_artist": "十時愛梨 (CV: 原田ひとみ)",
+  "createdAt": "2026-03-01T13:06:26.532468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス [ORT]",
+      "artist": "十時愛梨(CV:原田ひとみ)",
+      "has_synced": false,
+      "path": "select/01_アップルパイ・プリンセス_[ORT]_十時愛梨(CV_原田ひとみ).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス (オリジナル・カラオケ)",
+      "artist": "十時愛梨 (CV原田ひとみ)",
+      "has_synced": false,
+      "path": "select/02_アップルパイ・プリンセス_(オリジナル・カラオケ)_十時愛梨_(CV原田ひとみ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス",
+      "artist": "十時愛梨 (CV原田ひとみ)",
+      "has_synced": true,
+      "path": "select/03_アップルパイ・プリンセス_十時愛梨_(CV原田ひとみ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス",
+      "artist": "原田ひとみ",
+      "has_synced": true,
+      "path": "select/04_アップルパイ・プリンセス_原田ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス",
+      "artist": "十時愛梨",
+      "has_synced": true,
+      "path": "select/05_アップルパイ・プリンセス_十時愛梨.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アップルパイ・プリンセス (オリジナル・カラオケ)",
+      "artist": "十時愛梨",
+      "has_synced": false,
+      "path": "select/06_アップルパイ・プリンセス_(オリジナル・カラオケ)_十時愛梨.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アップルパイ・プリンセス",
+      "artist": "十時愛梨 (CV: 原田ひとみ)",
+      "has_synced": false,
+      "path": "select/pl_01_アップルパイ・プリンセス_十時愛梨_(CV__原田ひとみ).txt"
+    }
+  ]
+}
